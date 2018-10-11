@@ -85,11 +85,11 @@ def startSearch(imagePath,searchWord):
     print(imagePath + " " + searchWord)
     arr = openImage(imagePath)
     foundLocation = (searchForWord(arr, searchWord))
-    print("nigga the words aare located at ")
+    print(" the words aare located at ")
     print(foundLocation)
     # TO SEND LOCATION in the format :  X,Y,width,height
     # return foundLocation
 
 
 
-startSearch("nigga.jpg","The href attribute ")
+startSearch("Capture.jpg","The href attribute ")

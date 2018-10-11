@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d48cc4a-c9fa-4339-ae3e-5fffb420192c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/kb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OcrCordService.py" beforeDir="false" afterPath="$PROJECT_DIR$/OcrCordService.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,15 +16,10 @@
       <file leaf-file-name="OcrCordService.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OcrCordService.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="39" column="57" lean-forward="true" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+            <state relative-caret-position="221">
+              <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nigga.JPG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nigga.JPG">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="kewls.jpg" pinned="false" current-in-tab="false">
@@ -304,8 +299,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OcrCordService.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="39" column="57" lean-forward="true" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+        <state relative-caret-position="221">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
         </state>
       </provider>
     </entry>
